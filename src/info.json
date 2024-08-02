@@ -28,6 +28,10 @@
           "value": "gemini-pro"
         },
         {
+          "title": "gemini-1.5-pro-exp-0801",
+          "value": "gemini-1.5-pro-exp-0801"
+        },
+        {
           "title": "gemini-1.5-flash",
           "value": "gemini-1.5-flash-latest"
         },
